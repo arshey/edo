@@ -1,0 +1,2645 @@
+/*====================
+[Table of content begin]
+=====================
+[01] CSS apply up to 1599px
+[02] CSS apply up to 1429px
+[03] CSS apply up to 1199px
+[04] CSS apply up to 991px
+[05] CSS apply up to 767px
+[06] CSS apply between 576px to 767px
+[07] CSS apply up to 480px
+[08] CSS apply up to 350px
+====================
+[ End table of content]
+====================*/
+
+/* 1290px css */
+@media only screen and (min-width: 1430px) {
+    .container {
+        max-width: 1290px;
+    }
+}
+
+/* 1440px css */
+@media only screen and (min-width: 1600px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+/* 1630px css */
+@media only screen and (min-width: 1800px) {
+    .container {
+        max-width: 1620px;
+    }
+}
+
+@media only screen and (max-width: 1799px) {
+    /*Home Page 1 Css Start*/
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(80%*8);
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .subscribe_input {
+        min-width: 500px;
+    }
+    .subscribe_inner h5 {
+        font-size: 36px;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+}
+
+/* [01] CSS apply up to 1599px STARTS Here */
+@media only screen and (max-width: 1599px) {
+    /*Home Page 1 Css Start*/
+    .shb-home-one-hero-content h1 {
+        font-size: 46px;
+    }
+    .shb-page-head-one-title {
+        font-size: 40px;
+    }
+    .shb-work-process-one-title br {
+        display: none;
+    }
+    .shb-work-process-one-title {
+        font-size: 20px;
+    }
+    .shb-work-process-one-text {
+        font-size: 16px;
+    }
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(70%*8);
+    }
+    .contact_bg {
+        padding: 30px; 
+    }
+    .features-dots button p {
+        font-size: 16px;
+    }
+    .features-dots button h5 {
+        font-size: 22px;
+    }
+    .blue_bg .inner_title {
+        font-size: 28px;
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .work_bg h4 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    .subscribe_inner h5 {
+        font-size: 30px;
+    }
+    .subscribe_input {
+        min-width: 500px;
+    }
+    .footer_dec {
+        max-width: 450px;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .home3_features .core_features {
+        padding: 40px 20px;
+    }
+    .home3_features .core_text {
+        margin-left: 30px;
+    }
+    .home3_features .core_img {
+        width: 100px;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+    .breadcrumb {
+        margin-top: 20px;
+    }
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+
+}
+
+/* [01] CSS apply up to 1599px ENDS Here */
+
+/* [02] CSS apply up to 1429px STARTS Here */
+@media only screen and (max-width: 1429px) {
+    /* FOOTER CSS STARTS Here */
+    /* FOOTER STYLE 01 CSS STARTS Here */
+
+    .shb-footer-one::before {
+        width: 240%;
+    }
+
+    .shb-footer-style-one {
+        padding: 150px 0 90px;
+    }
+
+    /* FOOTER STYLE 01 CSS ENDS Here */
+    /* FOOTER CSS ENDS Here */
+
+    /* PAGE BANNER SECTION CSS STARTS Here */
+    .shb-page-banner-one h1 {
+        font-size: 32px;
+    }
+
+    .shb-page-banner-content nav {
+        font-size: 15px;
+    }
+
+    /* PAGE BANNER SECTION CSS ENDS Here */
+
+    /* PAGE SECTION TITLE CSS STARTS Here */
+    .shb-page-head-one-title {
+        font-size: 36px;
+    }
+
+    /* PAGE SECTION TITLE CSS ENDS Here */
+
+    /*Header Css Start*/
+    .navbar .navbar-nav .nav-link {
+        padding: 28px 10px;
+    }
+    /*Header Css End*/
+
+    /*Home Page 1 Css Start*/
+    .shb-home-one-hero-content h1 {
+        font-size: 40px;
+    }
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(60%*8);
+    }
+    .features .features_round {
+        max-width: 450px;
+        max-height: 450px;
+    }
+    .features-dots button .iconz {
+        width: 75px;
+        height: 75px;
+        padding: 18px;
+    }
+    .features-dots button {
+        width: calc(50% - 100px);
+        margin: 15px 0;
+    }
+    .features-dots button:nth-child(3), .features-dots button:nth-child(4) {
+        width: calc(50% - 150px);
+    } 
+    .features-dots button:nth-child(-n+2) {
+        margin-top: 15px;
+    }  
+    .blog_inner .blog_dec h6, .blog_inner .blog_dec p {
+        font-size: 14px;
+    }
+    .blog_inner .blog_dec {
+        padding: 0; 
+    }
+    .blue_bg .inner_title {
+        font-size: 24px;
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .work_bg h4 {
+        font-size: 20px;
+    }
+    .work_bg p {
+        font-size: 16px;
+    }
+    .core_features {
+        padding: 30px;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .white_bg_map .index_from {
+        padding: 20px;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+    .shb-feature-one-card {
+        padding: 20px 15px;
+    }
+    .shb-feature-one-img-icon {
+        height: 70px;
+        width: 70px;
+    }
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+
+}
+
+/* [02] CSS apply up to 1429px ENDS Here */
+
+/* [03] CSS apply up to 1199px STARTS Here */
+@media only screen and (max-width: 1199px) {
+
+    /* [05] HEADER CSS STARTS Here */
+    /* [5.1] NAVBAR CSS STARTS Here */
+
+    .dropdown-menu {
+        min-width: 100px;
+    }
+
+    .navbar .navbar-nav .nav-link,
+    .drop-link {
+        font-size: 14px;
+    }
+
+    .navbar .navbar-nav .nav-link {
+        padding: 28px 8px;
+    }
+
+    .navbar .navbar-nav .nav-link i {
+        font-size: 13px;
+    }
+    .navbar .brand {
+        width: 180px;
+        max-width: 180px;
+    }
+
+    /* [5.1] NAVBAR CSS ENDS Here */
+    /* [05] HEADER CSS ENDS Here */
+
+    /* COMMON COMPONENT STARTS Here*/
+    /* ERROR PAGE & COUNTDOWN STARTS Here*/
+    .shb-page-process {
+        background-position: center center;
+    }
+
+    /* ERROR PAGE & COUNTDOWN ENDS Here*/
+    /* COMMON COMPONENT ENDS Here*/
+
+    /* FOOTER CSS STARTS Here */
+    /* FOOTER STYLE 01 CSS STARTS Here */
+
+    .shb-footer-one::before {
+        width: 250%;
+    }
+
+    .shb-footer-style-one {
+        padding: 130px 0 70px;
+    }
+    .shb-footer-one-link-head {
+        font-size: 16px;
+    }
+    .contact_dec p {
+        font-size: 16px;
+    }
+    .contact_bg {
+        padding: 20px;
+    }
+    /* FOOTER STYLE 01 CSS ENDS Here */
+    /* FOOTER CSS ENDS Here */
+
+    /* PAGE BANNER SECTION CSS STARTS Here */
+    .shb-page-banner-one h1 {
+        font-size: 30px;
+    }
+
+    .shb-page-banner-content nav {
+        font-size: 14px;
+    }
+
+    /* PAGE BANNER SECTION CSS ENDS Here */
+
+    /* PAGE SECTION TITLE CSS STARTS Here */
+    .shb-page-head-one-title {
+        font-size: 36px;
+    }
+
+    .shb-page-head-one-short {
+        font-size: 16px;
+    }
+
+    /* PAGE SECTION TITLE CSS ENDS Here */
+
+    /* HOW IT WORKS STARTS Here*/
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(75%*5);
+    }
+
+    /* HOW IT WORKS ENDS Here*/
+
+    /* FAQ PAGE STARTS CSS  */
+    .shb-faq-contact-one {
+        padding: 60px 0;
+    }
+
+    /* FAQ PAGE ENDS CSS  */
+
+    /* BLOG STARTS Here*/
+    .shb-page-banner-one {
+        background-position: bottom left;
+        padding: 60px 0;
+    }
+
+    .shb-blog-one-img {
+        height: 210px;
+    }
+
+    .shb-blog-one-title {
+        font-size: 16px;
+        margin-bottom: .2rem;
+    }
+
+    .shb-blog-one-text,
+    .shb-blog-one-time {
+        font-size: 11px;
+    }
+
+    .shb-blog-one-time i {
+        margin-right: .2rem;
+    }
+
+    /* BLOG ENDS Here*/
+
+    /* BLOG VIEW STARTS Here*/
+
+    .shb-blog-view-one {
+        padding: 30px 0;
+    }
+
+    .shb-blog-view-one-large-images {
+        max-height: 400px;
+    }
+
+    .shb-blog-view-one-info-author,
+    .shb-blog-view-one-info-date,
+    .shb-blog-view-one-info-comment-count {
+        font-size: 12px;
+    }
+
+    .shb-blog-view-one-share-link {
+        width: 30px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .shb-blog-view-one-text {
+        font-size: 15px;
+    }
+
+    .shb-blog-view-one-comments h2 {
+        font-size: 32px;
+    }
+
+    .shb-blog-view-one-leave-comment-card h3 {
+        font-size: 28px;
+    }
+
+    .shb-blog-recent-post-content h5 {
+        font-size: 16px;
+    }
+
+    /* BLOG VIEW ENDS Here*/
+
+    /*Home Page 1 Css Start*/
+    .shb-home-one-hero-content h1 {
+        font-size: 36px;
+    }
+    .shb-home-one-hero-content p {
+        font-size: 18px;
+    }
+    .blue_bg {
+        padding: 20px;
+    }
+    .inner_blog {
+        bottom: 20px;
+        font-size: 18px;
+    }
+    .blue_bg .inner_title {
+        font-size: 20px;
+    }
+    .index_from input, .index_from input:focus, .index_from textarea {
+        height: 60px;
+    }
+    .index_from .form-group {
+        margin-top: 15px;
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .home2_price .col-lg-5 {
+        padding-left: 15px;
+    }
+    .home2_price .white_box span {
+        padding: 12px 25px;
+        font-size: 16px;
+    }
+    .home2_price .price-cost sub {
+        font-size: 40px;
+    }
+    .home2_price .price_text {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .home2_price .white_box .dec_text p {
+        font-size: 18px;
+    }
+    .home2_price .price_tab li .nav-link {
+        width: 140px;
+        font-size: 18px;
+    }
+    .work_bg {
+        padding: 15px;
+    }
+    .work_bg h4 {
+        font-size: 16px;
+    }
+    .work_bg p {
+        font-size: 14px;
+    }
+    .core_features {
+        padding: 20px;
+    }
+    .core_img {
+        width: 60px;
+        height: 60px;
+    }
+    .core_text {
+        margin-top: 35px;
+    }
+    .core_features:before {
+        width: 100px;
+        height: 100px;
+    }
+    .home2_faq:after {
+        display: none;
+    }
+    .subscribe_inner h5 {
+        font-size: 26px;
+    }
+    .subscribe_input {
+        min-width: 360px;
+    }
+    .white_bg_map .index_from {
+        padding: 30px;
+        padding-left: 0;
+    }   
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .homebanner3 > img {
+        height: 550px;
+    }
+    .banner3_text {
+        top: 30%;
+    }
+    .banner3_text .shb-home-one-hero-app-link {
+        margin: 30px 0 0;
+    }
+    .home3_features .core_features {
+        padding: 30px 15px;
+    }
+    .home3_features .core_text h5 {
+        font-size: 20px;
+        margin-bottom: 5px; 
+    }
+    .home3_features .core_text p {
+        font-size: 16px;
+    }
+    .home3_features .core_img {
+        width: 90px;
+    }
+    .home3_features:before {
+        height: 180px;  
+    }
+    .testimonial3.owl-carousel .owl-nav button.owl-prev {
+        left: -150px;
+    }
+    .testimonial3.owl-carousel .owl-nav button.owl-next {
+        right: -150px;
+    }
+    .home3blog .btn-common {
+        margin-top: 20px;
+        padding: 12px 45px;
+        font-size: 16px;
+    }
+    .shb-footer-style-three .footer_url li a {
+        font-size: 16px;
+    }
+    .shb-footer-style-three .footer_title {
+        font-size: 16px;
+    }
+    .shb-footer-style-three .news-dec {
+        font-size: 14px;
+    }
+    .newsletterhome3 .btn-common {
+        padding: 12px 38px;
+        font-size: 18px;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+    .shb-contact-one-title {
+        font-size: 20px;
+    }
+    .shb-contact-one-text {
+        font-size: 16px;
+    }
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+}
+
+/* [03] CSS apply up to 1199px ENDS Here */
+
+/* [04] CSS apply up to 991px STARTS Here */
+@media only screen and (max-width: 991px) {
+
+    /* [05] HEADER CSS STARTS Here */
+    /* [5.1] NAVBAR CSS STARTS Here */
+    .navbar .brand {
+        padding: 15px 0;
+    }
+
+    html.show-menu::after {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 9;
+        content: "";
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.5);
+    }
+
+    html.show-menu .navbar {
+        background-color: var(--white);
+        box-shadow: none;
+    }
+
+    .navbar-nav .nav-item {
+        margin-bottom: 15px;
+    }
+
+    .navbar .navbar-toggler {
+        padding: 0;
+        margin-right: 15px;
+        z-index: 99;
+        width: 35px;
+        height: 35px;
+        border: none;
+        font-size: 28px;
+        display: block;
+        text-align: center;
+        line-height: normal;
+        background-color: transparent;
+        -webkit-transition: all 0.5s ease 0s;
+        -moz-transition: all 0.5s ease 0s;
+        -ms-transition: all 0.5s ease 0s;
+        -o-transition: all 0.5s ease 0s;
+        transition: all 0.5s ease 0s;
+    }
+
+    .show-menu .navbar-toggler {
+        z-index: 5;
+        -webkit-transition: all 0.5s ease 0s;
+        -moz-transition: all 0.5s ease 0s;
+        -ms-transition: all 0.5s ease 0s;
+        -o-transition: all 0.5s ease 0s;
+        transition: all 0.5s ease 0s;
+    }
+
+    .show-menu .before-menu,
+    .after-menu {
+        display: none;
+    }
+
+    .after-menu {
+        display: none;
+    }
+
+    .after-menu i {
+        font-size: 28px;
+    }
+
+    .show-menu .after-menu {
+        display: unset;
+        position: absolute;
+        right: 30px;
+        top: 15px;
+    }
+
+    #navbarNav {
+        box-shadow: 0 0px 0 10px #fff inset, 0 0 0 12px var(--shbDenim) inset;
+        background-color: #fff;
+        height: auto !important;
+        display: block !important;
+        position: fixed;
+        padding: 60px 20px 15px;
+        right: 0px;
+        top: 0px;
+        bottom: 0;
+        opacity: 0;
+        width: 100%;
+        max-width: 60%;
+        z-index: 1;
+        font-size: 14px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        visibility: hidden;
+        transform-origin: 0px 50%;
+        transform: translateX(100%);
+        transition: all 0.5s ease 0s;
+    }
+
+    .show-menu #navbarNav {
+        opacity: 1;
+        visibility: visible;
+        transform: translateX(0px);
+        background: rgb(255, 255, 255);
+        transition: all .5s ease 0s;
+    }
+
+    .navbar-nav {
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: start;
+        overflow-y: auto;
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0;
+    }
+
+    .navbar .navbar-nav .nav-link {
+        padding: 15px 20px;
+        font-size: 16px;
+        display: block;
+        text-align: left;
+    }
+
+    .dropdown-menu:before {
+        top: 43px;
+    }
+    .dropdown-menu {
+        min-width: 190px;
+    }
+    /* [5.1] NAVBAR CSS ENDS Here */
+    /* [05] HEADER CSS ENDS Here */
+
+    /* COMMON COMPONENT STARTS Here*/
+    .shb-page-head-one-title {
+        font-size: 30px;
+    }
+    /* LOGIN, SIGNUP & FORGET PASSWORD STARTS Here*/
+    .shb-activity-bg {
+        background-position: -300px bottom;
+    }
+
+    /* LOGIN, SIGNUP & FORGET PASSWORD ENDS Here*/
+
+    /* ERROR PAGE & COUNTDOWN STARTS Here*/
+    .shb-page-process {
+        background: none;
+    }
+
+    /* ERROR PAGE & COUNTDOWN ENDS Here*/
+    /* COMMON COMPONENT ENDS Here*/
+
+
+    /* FOOTER CSS STARTS Here */
+    /* FOOTER STYLE 01 CSS STARTS Here */
+    .shb-footer-one::before {
+        width: 300%;
+    }
+
+    .shb-footer-style-one {
+        padding: 80px 0 40px;
+    }
+
+    .shb-footer-one-content-wrapper {
+        border: none;
+        padding: 0;
+        margin-bottom: 2rem;
+        height: auto;
+    }
+
+    .shb-footer-one-brand {
+        max-width: 200px;
+    }
+
+    .shb-footer-one-subscribe-mail {
+        margin: 2rem auto 0;
+    }
+
+    /* FOOTER STYLE 01 CSS ENDS Here */
+    /* FOOTER CSS ENDS Here */
+
+    /* FEATURES STARTS Here*/
+    .shb-feature-one-img-icon {
+        height: 70px;
+        width: 70px;
+    }
+
+    .shb-feature-one-title {
+        font-size: 20px;
+    }
+
+    .shb-feature-one-text {
+        font-size: 16px;
+    }
+
+    /* FEATURES ENDS Here*/
+
+    /* FAQ PAGE STARTS CSS  */
+    .shb-faq-contact-one .shb-page-head-one,
+    .shb-faq-contact-one .shb-page-head-one-short {
+        text-align: center;
+    }
+
+    /* FAQ PAGE ENDS CSS  */
+
+    /* BLOG STARTS Here*/
+    .shb-blog-one-img {
+        height: 250px;
+    }
+
+    .shb-blog-one-text,
+    .shb-blog-one-time {
+        font-size: 13px;
+    }
+
+    /* BLOG ENDS Here*/
+
+    /* BLOG VIEW STARTS Here*/
+    .shb-blog-view-one-title {
+        font-size: 34px;
+    }
+
+    .shb-blog-view-one-search {
+        margin: 3rem auto 2rem;
+    }
+
+    .shb-blog-recent-post {
+        align-items: center;
+    }
+
+    .shb-blog-recent-post-image {
+        width: 70px;
+        height: 70px;
+    }
+
+    .shb-blog-recent-post-content h5 {
+        font-size: 18px;
+        margin-bottom: .2rem;
+    }
+
+    .shb-blog-view-one-categories {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .shb-blog-view-one-categories li {
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+
+    .shb-blog-view-tags li {
+        font-size: 14px;
+    }
+
+    /* BLOG VIEW ENDS Here*/
+
+    /* CONTACT PAGE CSS STARTS Here */
+    .shb-contact-info-one,
+    .shb-page-conatct-one {
+        padding: 30px 0;
+    }
+
+    .shb-contact-one-card {
+        padding: 0 15px;
+    }
+
+    .shb-contact-one-card > div > div:not(:first-child) {
+        border: none;
+    }
+
+    .shb-contact-one-card > div > div {
+        padding: 30px 15px;
+    }
+
+    .shb-contact-one-card > div > div:nth-child(1),
+    .shb-contact-one-card > div > div:nth-child(2) {
+        border-bottom: .06rem solid #a6a6a8;
+    }
+
+    .shb-contact-one-card > div > div:nth-child(1),
+    .shb-contact-one-card > div > div:nth-child(3) {
+        border-right: .06rem solid #a6a6a8;
+    }
+
+    .shb-page-contact-one-form-wrapper {
+        padding: 0 7rem;
+    }
+
+    .shb-map-wrapper {
+        margin: 3rem 0 2rem;
+        height: 500px;
+        position: relative;
+    }
+
+    /* CONTACT PAGE CSS ENDS Here */
+
+    /*Header Css Start*/
+    
+    /*Header Css End*/
+
+    /*Home Page 1 Css Start*/
+    .features .features_round {
+        max-width: 280px;
+        max-height: 280px;
+        top: 25px;
+    }
+    .features-dots button .iconz {
+        width: 65px;
+        height: 65px;
+        padding: 18px;
+        margin: 0 10px;
+    }
+    .features-dots button:nth-child(-n+2) {
+        margin-top: 0;
+    }
+    .features-dots button p {
+        font-size: 14px;
+    }
+    .features-dots button h5 {
+        font-size: 16px;
+    }
+    .features-dots button:nth-child(3), .features-dots button:nth-child(4) {
+        width: calc(50% - 90px);
+    }
+    .features-dots button {
+        width: calc(50% - 65px);
+        margin: 0px 0;
+    }
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(83%*3);
+    }
+    .shb-work-process-one-title {
+        font-size: 20px;
+    }
+    .shb-work-process-one-text {
+        font-size: 15px;
+    }
+    .slider-nav {
+        justify-content: center;
+    }
+    .blog_inner .blog_dec h6, .blog_inner .blog_dec p {
+         font-size: 16px;
+    }
+    .blue_bg .inner_title {
+        font-size: 26px;
+    }
+    .inner_blog {
+        font-size: 20px;
+    }
+    .contact_img {
+        width: 45px;
+        height: 45px;
+    }
+    .contact_dec h4 {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+    .contact_dec p {
+        font-size: 14px;
+    }
+    .contact_bg {
+        padding: 30px 5px;
+    }
+    .index_from .from_submit .btn {
+        padding: 14px 30px;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .shb-faq-one-question {
+        font-size: 16px;
+    }
+    .shb-faq-data-wrapper .card-body {
+        font-size: 15px;
+    }
+    .shb-page-head-one {
+        margin-bottom: 3rem;
+    }
+    .shb-home-one-hero-content p {
+        font-size: 16px;
+    }
+    .screenshort-nav button, .slider-nav > button, #bloghome2 .owl-nav > button, .testimonial3.owl-carousel .owl-nav button {
+        width: 50px;
+        height: 50px;
+        font-size: 24px;
+    }
+    .shb-page-review-text {
+        font-size: 16px;
+    }
+    .price_tab {
+        margin-bottom: 30px;
+    }
+    .shb-page-user-rating .fas {
+        font-size: 14px;
+    }
+    .shb-page-user-name {
+        font-size: 18px;
+    }
+    .shb-page-user-profession {
+        font-size: 16px;
+    }
+    .white_box .dec_text p {
+        font-size: 18px;
+    }
+    .price-cost sub {
+        font-size: 48px;
+    }
+    .white_box span {
+        padding: 12px 30px;
+        font-size: 18px;
+    }
+
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .homepage2.shb-home-one-partners {
+        margin-top: 10px;
+    }
+    .core_text h5 {
+        font-size: 18px;
+    }
+    .core_text p {
+        font-size: 14px;
+    } 
+    .core_features {
+        padding: 15px;
+    } 
+    .workborder {
+        margin-top: 30px;
+    }  
+    .home2_faq {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .white_bg_map .index_from {
+        padding: 30px;
+        padding-left: 30px;
+    }
+    .subscribe_inner {
+        justify-content: center;
+    }
+    .subscribe_input {
+        min-width: 100%;
+        margin-top: 30px;
+    }
+    .contact_home #map, .contact_home iframe {
+        height: 400px;
+        width: 100%;
+    }
+    .shb-footer-two .footer_title{
+        margin-top: 60px;
+    }
+    .testimonials_dec {
+        padding: 30px;
+        margin: 0 15px 40px;
+    }
+    .work_bg {
+        padding: 30px;
+    }
+    .work_bg h4 {
+        font-size: 20px;
+    }
+    .work_bg p {
+        font-size: 16px;
+    }
+    .core_features:before {
+        width: 80px;
+        height: 80px;
+    }
+    .transparent.home-2 .navbar .navbar-nav .nav-link {
+         color: var(--shbSpaceV); 
+    }
+    .homebanner2 .shb-home-one-hero-app-link {
+        margin: 35px 0 0;
+    }
+    html.show-menu .home-2 .navbar {
+        background-color: transparent;
+        box-shadow: none;
+    }
+    .blog_text p {
+        font-size: 15px;
+    }
+    .blog_text h5 {
+        font-size: 18px;
+    }
+    .white_bg_map .index_from {
+        padding: 30px;
+        padding-left: 30px;
+        padding-bottom: 0;
+    }
+    .subscribe_inner h5 {
+        font-size: 26px;
+        text-align: center;
+    }
+    .footer_logo a {
+        width: 200px;
+        max-width: 200px;
+    }
+    .footer_logo {
+        margin-bottom: 30px;
+    }
+    .shb-footer-two-social-links-group {
+        margin-top: 30px;
+    }
+    .shb-footer-style-two {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    .transparent.home-2  .navbar .navbar-toggler {
+        color: var(--white);
+    }
+    .show-menu .transparent.home-2  .navbar-toggler {
+        color: var(--shbSpaceV);
+    }
+    .transparent.home-2 .navbar .navbar-nav .nav-link.show, .transparent.home-2 .navbar .navbar-nav .nav-link:hover, .transparent.home-2 .navbar .navbar-nav .nav-link.active, .transparent.home-2 .navbar .navbar-nav .show > .nav-link, .transparent.home-2 .navbar .navbar-nav .active > .nav-link {
+        color: var(--shbDenim);
+        opacity: 1;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .testimonial3.owl-carousel .owl-nav button.owl-prev, .testimonial3.owl-carousel .owl-nav button.owl-next {
+        left: 0;
+        right: 0;
+        position: relative;
+    }
+    .testimonial3.owl-carousel .owl-nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+    .shb-feature-one-card {
+        padding: 50px 15px;
+    }
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+
+}
+
+/* [04] CSS apply up to 991px ENDS Here */
+
+/* [05] CSS apply up to 767px STARTS Here */
+@media only screen and (max-width: 767px) {
+
+    /* [05] HEADER CSS STARTS Here */
+    /* [5.1] NAVBAR CSS STARTS Here */
+
+    .navbar .brand {
+        padding: 15px 0 15px 15px;
+    }
+
+    /* [5.1] NAVBAR CSS ENDS Here */
+    /* [05] HEADER CSS ENDS Here */
+
+    /* COMMON COMPONENT STARTS Here*/
+    /* LOGIN, SIGNUP & FORGET PASSWORD  STARTS Here*/
+    .shb-activity-bg {
+        background-position: -360px bottom;
+        padding: 50px 0;
+    }
+
+    .shb-activity-retreat {
+        margin-bottom: 2rem;
+    }
+
+    /* LOGIN, SIGNUP & FORGET PASSWORD  ENDS Here*/
+
+    /* ERROR PAGE & COUNTDOWN STARTS Here*/
+    .shb-page-process {
+        display: flex;
+        align-items: center;
+        height: -webkit-fill-available;
+    }
+
+    .shb-page-content-wrapper {
+        padding: 30px 0;
+    }
+
+    .shb-error-page-image {
+        width: 100%;
+    }
+
+    .shb-page-to-go-title {
+        font-size: 60px;
+    }
+
+    .shb-page-countdown ul li {
+        padding: 0 15px;
+    }
+
+    /* ERROR PAGE & COUNTDOWN ENDS Here*/
+    /* COMMON COMPONENT ENDS Here*/
+
+    /* FEATURES STARTS Here */
+    .shb-feature-one,
+    .shb-work-precess-one {
+        padding: 30px 0;
+    }
+
+    .shb-feature-one .shb-feature-one-card {
+        margin-bottom: 1rem;
+    }
+
+    /* FEATURES STARTS Here */
+
+    /* FOOTER CSS STARTS Here */
+    /* FOOTER STYLE 01 CSS STARTS Here */
+
+    .shb-footer-one::before {
+        width: 390%;
+    }
+
+    .shb-footer-style-one {
+        padding: 60px 0 30px;
+    }
+
+    .shb-footer-one-link-list li:not(:last-child) {
+        margin-bottom: 1rem;
+    }
+
+    .shb-footer-one-text,
+    .shb-footer-one-subscribe-mail {
+        max-width: 100%;
+    }
+
+    /* FOOTER STYLE 01 CSS ENDS Here */
+    /* FOOTER CSS ENDS Here */
+
+    /* FAQ PAGE CSS STARTS Here */
+    .shb-faq-contact-one,
+    .shb-faq-one {
+        padding: 30px 0;
+    }
+
+    /* FAQ PAGE CSS ENDS Here */
+
+    /* BLOG STARTS Here*/
+    .shb-blog-one-img {
+        height: 300px;
+    }
+
+    .shb-blog-one-title {
+        font-size: 20px;
+    }
+
+    .shb-blog-one-text,
+    .shb-blog-one-time {
+        font-size: 17px;
+    }
+
+    /* BLOG ENDS Here*/
+
+    /* BLOG VIEW STARTS Here*/
+    .shb-blog-view-one-title {
+        font-size: 30px;
+    }
+
+    .shb-blog-view-one-large-images {
+        max-height: 300px;
+        height: 300px;
+    }
+
+    .shb-blog-view-one-info-activity {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .shb-blog-view-one-info {
+        margin-bottom: 1rem;
+    }
+
+    .shb-blog-view-one-share-link {
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+    }
+
+    .shb-blog-view-one-info-author,
+    .shb-blog-view-one-info-date,
+    .shb-blog-view-one-info-comment-count {
+        font-size: 14px;
+    }
+
+    .shb-blog-view-one-text {
+        font-size: 17px;
+    }
+
+    .shb-blog-view-one-comment-group,
+    .shb-blog-view-one-comment-group-replied {
+        flex-direction: column;
+    }
+
+    .shb-blog-view-one-comment-group-replied {
+        margin-left: 1rem;
+    }
+
+    .shb-blog-view-one-commenter-photo {
+        margin-right: 0;
+        margin-bottom: .8rem;
+    }
+
+    .shb-blog-view-one-comment-deatils {
+        width: 100%;
+    }
+
+    .shb-blog-view-one-categories {
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    .shb-blog-view-one-categories li:not(:last-child) {
+        margin-bottom: .8rem;
+    }
+
+    /* BLOG VIEW ENDS Here*/
+
+    /* REVIEW STARTS Here*/
+    .shb-review-one {
+        padding: 30px 0;
+    }
+
+    .shb-page-review-text {
+        -webkit-line-clamp: 5;
+    }
+
+    /* REVIEW ENDS Here*/
+
+    /* CONTACT PAGE CSS STARTS Here */
+    .shb-contact-one-card > div > div {
+        padding: 30px 15px;
+    }
+
+    .shb-contact-one-card > div > div:nth-child(1),
+    .shb-contact-one-card > div > div:nth-child(3) {
+        border-right: none;
+    }
+
+    .shb-contact-one-card > div > div:not(:last-child) {
+        border-bottom: .06rem solid #a6a6a8;
+    }
+
+    .shb-page-contact-one-form-wrapper {
+        padding: 0;
+    }
+
+    .shb-map-wrapper {
+        height: 400px;
+    }
+
+    /* CONTACT PAGE CSS ENDS Here */
+
+    /*Header Css Start*/
+    
+    /*Header Css End*/
+
+    /*Home Page 1 Css Start*/
+    .main_banner {
+        padding: 100px 0 60px;
+    }
+    .shb-home-one-partners {
+        padding: 30px 0;
+    }
+    .shb-home-one-hero-app-link {
+        margin: 20px 0 0;
+    }
+    .shb-work-process-one-step-number {
+        width: 50px;
+        height: 50px;
+    }
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(82%*3);
+        top: 23px;
+        left: 50px;
+    }
+    .features-dots button:nth-child(3), .features-dots button:nth-child(4) {
+        width: 50%;
+    }
+    .features-dots button {
+        width: 50%;
+        text-align: center;
+        flex-direction: column;
+        justify-content: center;
+        float: left;
+    }
+    .features .features_round {
+        position: relative;
+        top: 0;
+    }
+    .features-dots button .iconz, .features-dots button:nth-child(2n) .iconz {
+        order: 0;
+    }
+    .features-dots button div {
+        flex: 1;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .blog_inner .blog_dec h6, .blog_inner .blog_dec p {
+        font-size: 15px;
+    }
+    .index_from .from_submit .btn {
+        margin-bottom: 20px;
+    }
+    .white_box .btn-common {
+        padding: 10px 15px;
+        bottom: -22px;
+        max-width: 150px;
+        font-size: 18px;
+    }
+    .price_inner_tab .white_bg {
+        height: 100%;
+    }
+    .price_inner_tab [class*="col-"] {
+        margin-bottom: 40px;
+    }
+    .shb-work-process-one-title {
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    .shb-work-process-ring {
+        right: 0;
+    }
+    .shb-home-one-mates {
+        width: calc(100% / 4);
+        padding: 15px 14px 15px;
+    }
+    .shb-home-one-partners-group {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .shb-home-one-hero-app-link a {
+        max-width: 140px;
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .homebanner2 {
+        padding: 100px 0;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .price_section:before {
+        width: 100%;
+        height: 807px;
+    }
+    .home3_partner {
+        margin-top: 40px;
+    }
+    .testi_text p {
+        font-size: 16px
+    }
+    .testi_text img {
+        max-width: 40px;
+        display: inline-block !important;
+        margin-bottom: 15px;
+    }
+    .home3_features:before {
+        height: 110px;
+    }
+    .home3_features .core_img {
+        width: 60px;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+    .breadcrumb {
+        margin-top: 10px;
+    }
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+}
+
+/* [05] CSS apply up to 767px ENDS Here */
+
+/* [06] CSS apply between 576px to 767px STARTS Here */
+@media only screen and (max-width: 575px) {
+
+    /* COMMON COMPONENT STARTS Here*/
+    /* ERROR PAGE & COUNTDOWN STARTS Here*/
+
+    .shb-page-process {
+        display: block;
+    }
+
+    .shb-page-content-wrapper {
+        height: 100%;
+    }
+
+    /* ERROR PAGE & COUNTDOWN ENDS Here*/
+    section {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+    .home-pb {
+        padding-bottom: 40px;
+    }
+    /* COMMON COMPONENT ENDS Here*/
+
+    /*Header Css Start*/
+    
+    /*Header Css End*/
+
+    /*Home Page 1 Css Start*/
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(68%*3);
+        top: 23px;
+        left: 50px;
+    }
+    .shb-home-one-hero-app-link a {
+        max-width: 130px;
+    }
+    .blue_bg {
+        height: 500px;
+    }
+    .contact_dec p {
+        font-size: 17px;
+    }  
+    .contact_dec h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .blue_main {
+        margin-bottom: 0;
+    }
+    .blog_inner .blog_dec h6, .blog_inner .blog_dec p {
+        font-size: 16px;
+    }
+    .price_tab li .nav-link {
+        font-size: 16px;
+        height: 50px;
+        width: 130px;
+    }
+    .screenshort-nav {
+        margin-top: 40px;
+    } 
+    .screenshort-nav button, .slider-nav > button, #bloghome2 .owl-nav > button, .testimonial3.owl-carousel .owl-nav button {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    #sync2 .owl-nav .owl-prev {
+        left: 0;
+        right: auto;
+    }
+    #sync2 .owl-nav .owl-next {
+        right: 0;
+        left: auto;
+    }
+    #sync2 .owl-nav button {
+        position: relative; 
+        margin: 0 10px; 
+    }
+    #sync2 .owl-nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    .main_work:before {
+        left: 40px;
+        width: 90px;
+        height: 320px;
+    }
+    .work_number {
+        margin-right: 80px;
+    }
+    .work_bg h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .work_bg {
+        padding: 20px;
+    }
+    .work_bg p {
+        font-size: 15px;
+    }
+    .home2_faq {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .core_features {
+        padding: 20px;
+    }
+    .core_text {
+        margin-top: 20px;
+    }
+    .core_text h5 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .core_text p {
+        font-size: 15px;
+    }
+    .subscribe_inner h5 {
+        font-size: 22px;
+    }
+    .footer_url, .footer_url li {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .shb-footer-two .footer_title {
+        margin-top: 60px;
+        text-align: center;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .banner3_text {
+        top: 25%;
+    }
+    .home3_features .core_img {
+        width: 90px;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+
+}
+
+/* [06] CSS apply between 576px to 767px ENDS Here */
+
+/* [07] CSS apply up to 480px STARTS Here */
+@media only screen and (max-width: 480px) {
+
+    /* [05] HEADER CSS STARTS Here */
+    /* [5.1] NAVBAR CSS STARTS Here */
+    .navbar .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    #navbarNav {
+        max-width: 100%;
+    }
+    /* [5.1] NAVBAR CSS ENDS Here */
+    /* [05] HEADER CSS ENDS Here */
+
+    /* COMMON COMPONENT STARTS Here*/
+    /* LOGIN, SIGNUP & FORGET PASSWORD STARTS Here*/
+    .shb-activity-bg {
+        background-position: -300px bottom;
+        padding: 30px 0;
+    }
+
+    .shb-activity-retreat {
+        margin-bottom: 1rem;
+    }
+
+    .shb-logo-img {
+        margin: 0 auto 1rem;
+        max-width: 180px;
+    }
+
+    .shb-activity-retreat-text {
+        margin-bottom: 1rem;
+    }
+
+    .shb-retreat-link,
+    .shb-retreat-link:hover {
+        font-size: 13px;
+    }
+
+    .shb-retreat-link i {
+        font-size: 18px;
+    }
+
+    .shb-activity-card {
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+    .shb-activity-card-header {
+        font-size: 30px;
+        margin: 0 0 .5rem;
+    }
+
+    .shb-activity-card-subtitle {
+        font-size: 15px;
+        margin-bottom: 1.5rem;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .form-group i,
+    .form-group img {
+        font-size: 18px;
+    }
+
+    .shb-activity-actions input,
+    .shb-activity-actions input:focus {
+        background-color: var(--shbPlaceBg);
+        padding: 5px 15px 5px 50px;
+    }
+
+    .shb-activity-forget {
+        margin: 0 0 2rem;
+    }
+
+    .shb-activity-go-signup,
+    .shb-activity-go-signup:hover {
+        margin-bottom: 0.5rem;
+    }
+
+    /* LOGIN, SIGNUP & FORGET PASSWORD ENDS Here*/
+
+    /* ERROR PAGE & COUNTDOWN STARTS Here*/
+    .shb-page-process-logo-wrap {
+        margin: 0 auto 1rem;
+        max-width: 180px;
+    }
+
+    .shb-error-page-title {
+        font-size: 70px;
+        margin: 0;
+    }
+
+    .shb-error-page-subtitle {
+        font-size: 20px;
+    }
+
+    .shb-page-social-link {
+        font-size: 18px;
+        height: 40px;
+        width: 40px;
+    }
+
+    /* Countdown Page CSS STARTS Here */
+    .shb-process-countdown .shb-page-content-wrapper {
+        padding: 15px 0;
+    }
+
+    .shb-process-countdown .shb-page-content {
+        margin: 0 0 1rem;
+    }
+
+    .shb-page-to-go-title {
+        font-size: 42px;
+        margin-bottom: .5rem;
+    }
+
+    .shb-page-process-sub {
+        font-size: 14px;
+    }
+
+    .shb-page-countdown {
+        margin-bottom: 2rem;
+    }
+
+    .shb-page-countdown ul li {
+        font-size: 12px;
+        padding: 0 5px;
+    }
+
+    .shb-page-countdown ul li span {
+        font-size: 36px;
+    }
+
+    .shb-page-email-contact .form-group {
+        margin: 0;
+    }
+
+    .shb-page-time-to-go input {
+        height: 56px;
+        padding: 5px 100px 5px 50px;
+    }
+
+    .btn-send-mail,
+    .btn-send-mail:hover {
+        font-size: 20px;
+        height: 40px;
+        padding: 5px 25px;
+        right: 8px;
+        top: 8px;
+    }
+
+    .shb-page-time-to-go {
+        margin-bottom: 1.5rem;
+    }
+
+    /* Countdown Page CSS STARTS Here */
+    /* ERROR PAGE & COUNTDOWN ENDS Here*/
+    /* COMMON COMPONENT ENDS Here*/
+
+    /* FOOTER CSS STARTS Here */
+    /* FOOTER STYLE 01 CSS STARTS Here */
+
+    .shb-footer-one::before {
+        width: 450%;
+    }
+
+    .shb-footer-style-one {
+        padding: 50px 0 20px;
+    }
+
+    .shb-footer-one-brand {
+        margin-bottom: 1rem;
+    }
+
+    .shb-footer-one-text,
+    .shb-footer-one-subscribe-mail input {
+        font-size: 14px;
+    }
+
+    .shb-footer-one-btn-mail {
+        padding: 10px 18px;
+        font-size: 12px;
+    }
+
+    .shb-footer-one-copyright label {
+        font-size: 12px;
+    }
+
+    /* FOOTER STYLE 01 CSS ENDS Here */
+    /* FOOTER CSS ENDS Here */
+
+    /* PAGE BANNER SECTION CSS STARTS Here */
+    .shb-page-ask-faq {
+        width: 100%;
+    }
+
+    /* PAGE BANNER SECTION CSS ENDS Here */
+
+    /* PAGE SECTION TITLE CSS STARTS Here */
+    .shb-page-head-one-title {
+        font-size: 24px;
+    }
+    .shb-page-head-one {
+        margin-bottom: 2rem;
+    }
+    .shb-page-head-one-title br {
+        display: none;
+    }
+
+    /* PAGE SECTION TITLE CSS ENDS Here */
+
+    /* FEATURES STARTS Here */
+    .shb-feature-one-img-icon {
+        height: 60px;
+        width: 60px;
+    }
+
+    .shb-feature-one-title {
+        font-size: 18px;
+    }
+
+    .shb-feature-one-text {
+        font-size: 14px;
+    }
+
+    /* FEATURES ENDS Here */
+
+    /* FAQ STARTS Here*/
+    .shb-faq-one-btn-que {
+        font-size: 1rem;
+    }
+
+    /* FAQ ENDSS Here*/
+
+    /* BLOG STARTS Here*/
+    .shb-page-banner-one {
+        padding: 30px 0;
+    }
+
+    .shb-blog-one {
+        padding: 30px 0;
+    }
+
+    .shb-blog-one-img {
+        height: 250px;
+    }
+
+    .shb-blog-one-title {
+        font-size: 18px;
+    }
+
+    .shb-blog-one-text,
+    .shb-blog-one-time {
+        font-size: 14px;
+    }
+
+    /* BLOG ENDS Here*/
+
+    /* BLOG VIEW STARTS Here*/
+    .shb-blog-view-one {
+        padding: 15px 0;
+    }
+
+    .shb-blog-view-one-title {
+        font-size: 26px;
+        margin-bottom: .8rem;
+    }
+
+    .shb-blog-view-one-large-images {
+        max-height: 250px;
+        height: 250px;
+    }
+
+    .shb-blog-view-one-info {
+        margin-bottom: .5rem;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .shb-blog-view-one-info-author,
+    .shb-blog-view-one-info-date,
+    .shb-blog-view-one-info-comment-count {
+        font-size: 12px;
+        margin: 0;
+        margin-bottom: .5rem;
+    }
+
+    .shb-blog-view-one-text {
+        font-size: 14px;
+    }
+
+    .shb-blog-view-one-second-title {
+        font-size: 20px;
+    }
+
+    .shb-blog-view-one-comments h2 {
+        font-size: 28px;
+    }
+
+    .shb-blog-view-one-comments {
+        margin-top: 2rem;
+    }
+
+    .shb-blog-view-one-comment-info {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        font-size: 15px;
+    }
+
+    .shb-blog-view-one-comment-group-replied {
+        margin-left: 0;
+    }
+
+    .shb-blog-view-one-comment-text {
+        font-size: 13px;
+    }
+
+    .shb-blog-view-one-leave-comment-card {
+        padding: 2rem 1rem;
+    }
+
+    .shb-blog-recent-post-content h5 {
+        font-size: 15px;
+    }
+
+    .shb-blog-view-tags li {
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    /* BLOG VIEW ENDS Here*/
+
+    /* REVIEW STARTS Here*/
+    .shb-page-reviews {
+        padding: 40px 0 0 0;
+    }
+
+    .shb-page-review-one-card {
+        padding: 20px;
+    }
+
+    .shb-page-reiview-user-photo {
+        top: -30px;
+        left: 20px;
+        width: 75px;
+        height: 75px;
+    }
+
+    .shb-page-review-icon-quote {
+        bottom: 0;
+        left: 120px;
+        top: 15px;
+    }
+
+    .shb-page-review-text {
+        margin-top: 3rem;
+        font-size: 14px;
+        margin-bottom: .5rem;
+    }
+
+    .shb-page-user-name {
+        font-size: 16px;
+        margin-bottom: .2rem;
+    }
+
+    .shb-page-user-and-rating {
+        width: 50%;
+    }
+
+    .shb-page-user-rating {
+        font-size: 14px;
+    }
+
+    .shb-page-user-profession {
+        font-size: 15px;
+        width: 50%;
+        text-align: right;
+    }
+
+    /* REVIEW ENDS Here*/
+
+    /*Header Css Start*/
+    
+    /*Header Css End*/
+
+    /*Home Page 1 Css Start*/
+    .shb-home-one-mates {
+        width: calc(100% / 3);
+    }
+    .shb-page-head-one-short {
+        font-size: 16px;
+    }
+    .features-dots button p {
+        font-size: 12px;
+    }
+    .features-dots button h5 {
+        font-size: 14px;
+    }
+    .shb-work-process-one-card {
+        padding: 10px;
+    }
+    .shb-home-one-hero-content h1 {
+        font-size: 32px;
+    }
+    .shb-work-process-one-step-number {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(60%*3);
+        top: 16px;
+        left: 40px;
+    }
+    .shb-work-process-one-title {
+        font-size: 18px;
+    }
+    .price-cost sub {
+        font-size: 38px;
+    }
+    .price-cost {
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    .white_box span {
+        padding: 10px 20px;
+        font-size: 16px;
+    }  
+    .price_text {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .white_box .dec_text p {
+        font-size: 16px;
+    } 
+    .blue_bg {
+        height: 160px;
+    }
+    .shb-home-one-mates {
+        width: calc(100% / 2);
+    }
+    .shb-work-process-one-steps:not(:last-child) .shb-work-process-one-step-number::after {
+        width: calc(52%*3);
+        top: 16px;
+        left: 40px;
+    }
+    .blue_bg .inner_title {
+        font-size: 22px;
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .work_number {
+        margin-right: 20px;
+        font-size: 40px;
+        width: 10%;
+    }
+    .main_work:before {
+        display: none;
+    }
+    .shb-page-head-one-short {
+        margin-top: 1rem; 
+    }
+    .testimonials_dec p {
+        font-size: 16px;
+    }
+    .testimonials_dec {
+        padding: 15px;
+        margin: 0 15px 30px;
+    }
+    .testimonials_dec > img {
+        width: 50px;
+        height: 50px;
+        margin: 0 auto 20px;
+    }
+    .testimonials_dec h5 {
+        font-size: 20px;
+    }
+    .testimonials_dec label {
+        font-size: 15px;
+    }
+    #bloghome2 .owl-nav {
+        margin-top: 20px;
+    }
+    .white_bg_map .index_from {
+        padding: 15px;
+        padding-left: 15px;
+        padding-bottom: 0;
+    }
+    .subscribe_inner h5 {
+        font-size: 18px;
+    }
+    .subscribe_input input {
+        height: 50px;
+    }
+    .subscribe_input .send-btn {
+        height: 40px;
+        padding: 10px 15px;
+    }
+    .footer_dec {
+        max-width: 100%;
+        font-size: 16px;
+    }
+    .footer_url li a {
+        font-size: 16px;
+    }
+    .footer_title {
+        font-size: 16px;
+    }
+    .shb-footer-two-social-link {
+        width: 40px;
+        height: 40px;
+    }
+    .blog_text {
+        width: 100%;
+    }
+    .blog_text h5 {
+        font-size: 16px;
+    }
+    .blog_text p {
+        font-size: 14px;
+    }
+    .index_from input, .index_from input:focus, .index_from textarea {
+        height: 50px;
+    }
+    .home2_price .white_box .dec_text p {
+        font-size: 16px;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .testi_text {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .testi_text p {
+        font-size: 14px;
+    }
+    .testi_bg {
+        display: inline-block;
+    }
+    .homebanner3 > img {
+        height: 450px;
+    }
+    .home3blog .btn-common {
+        margin-top: 0;
+    }
+    .home3_features .core_text h5 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .home3_features .core_features {
+        padding: 30px 0 0;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+}
+
+/* [07] CSS apply up to 480px ENDS Here */
+
+/* [08] CSS apply up to 350px STARTS Here */
+@media only screen and (max-width: 350px) {
+
+    /* COMMON COMPONENT STARTS Here*/
+    /* LOGIN, SIGNUP & FORGET PASSWORD STARTS Here*/
+    .shb-activity-bg {
+        background-position: -260px bottom;
+    }
+
+    .shb-logo-img {
+        margin: 0 auto .8rem;
+        max-width: 160px;
+    }
+
+    .shb-activity-retreat-text {
+        font-size: 14px;
+        margin-bottom: .8rem;
+    }
+
+    .shb-retreat-link,
+    .shb-retreat-link:hover {
+        font-size: 12px;
+        padding: 11px 17px;
+    }
+
+    .shb-activity-card-header {
+        font-size: 28px;
+        margin: 0 0 .5rem;
+    }
+
+    .shb-activity-card-subtitle {
+        font-size: 13px;
+        margin-bottom: 1rem;
+    }
+
+    .shb-activity-actions input,
+    .shb-activity-actions input:focus {
+        font-size: .8rem;
+    }
+
+    .shb-activity-forget,
+    .btn-activity-confirm {
+        margin: 0 0 1.5rem;
+    }
+
+    .shb-activity-go-signup,
+    .shb-activity-go-signup:hover {
+        margin-bottom: 0.2rem;
+    }
+
+    /* LOGIN, SIGNUP & FORGET PASSWORD ENDS Here*/
+
+    /* ERROR PAGE & COUNTDOWN STARTS Here*/
+    .shb-page-process-logo-wrap {
+        margin-bottom: .5rem;
+        max-width: 160px;
+    }
+
+    .shb-page-to-go-title {
+        font-size: 40px;
+    }
+
+    .shb-page-process-sub {
+        font-size: 13px;
+    }
+
+    .shb-page-time-to-go {
+        margin-bottom: 1rem;
+    }
+
+    /* ERROR PAGE & COUNTDOWN ENDS Here*/
+    /* COMMON COMPONENT ENDS Here*/
+
+
+    /* BLOG STARTS Here*/
+    .shb-blog-one-img {
+        height: 200px;
+    }
+
+    .shb-blog-one-title {
+        font-size: 16px;
+    }
+
+    .shb-blog-one-text,
+    .shb-blog-one-time {
+        font-size: 12px;
+    }
+
+    /* BLOG ENDS Here*/
+
+    /* BLOG VIEW STARTS Here*/
+    .shb-blog-view-one-title {
+        font-size: 22px;
+    }
+
+    .shb-blog-view-one-large-images {
+        max-height: 200px;
+        height: 200px;
+    }
+
+    .shb-blog-view-one-info-activity {
+        padding: .8rem 0 .8rem;
+    }
+
+    .shb-blog-view-one-share-link {
+        width: 30px;
+        height: 31px;
+        font-size: 12px;
+    }
+
+    .shb-blog-view-one-text {
+        font-size: 13px;
+    }
+
+    .shb-blog-view-one-comment-info {
+        font-size: 13px;
+    }
+
+    .shb-blog-view-one-commenter-name {
+        font-size: 15px;
+    }
+
+    /* BLOG VIEW ENDS Here*/
+
+
+    /* CONTACT PAGE CSS STARTS here*/
+    .shb-map-wrapper {
+        height: 300px;
+    }
+    /* CONTACT PAGE CSS ENDS here*/
+
+    /*Header Css Start*/
+    
+    /*Header Css End*/
+
+    /*Home Page 1 Css Start*/
+    .price_tab li .nav-link {
+        height: 50px;
+        width: 120px;
+    }
+    /*Home Page 1 Css End*/
+
+    /*Home Page 2 Css Start*/
+    .homebanner2 {
+        padding: 100px 0 0;
+    }
+    .home2_price .price_tab li .nav-link {
+        width: 120px;
+        font-size: 18px;
+    }
+    /*Home Page 2 Css End*/
+
+    /*Home Page 3 Css Start*/
+    .banner3_text {
+        top: 18%;
+    }
+    /*Home Page 3 Css End*/
+
+    /*About Page Css Start */
+
+    /*About Page Css End */
+
+    /*blog Page Css Start */
+
+    /*blog Page Css End */
+
+    /*contact Page Css Start */
+
+    /*contact Page Css End */
+
+    /*faq Page Css Start */
+
+    /*faq Page Css End */
+
+    /*review Page Css Start */
+
+    /*review Page Css End */
+
+    /*login Page Css Start */
+
+    /*login Page Css End */
+
+    /*signup Page Css Start */
+
+    /*signup Page Css End */
+
+    /*forget-password Page Css Start */
+
+    /*forget-password Page Css End */
+
+    /*countdown Page Css Start */
+
+    /*countdown Page Css End */
+
+    /*404 Page Css Start */
+
+    /*404 Page Css End */
+}
+
+/* [08] CSS apply up to 350px ENDS Here */
